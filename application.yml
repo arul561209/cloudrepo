@@ -1,0 +1,3 @@
+message-generator:
+ welcome: "Hello"
+ welcomeMessage : "Welcome to the Application"
